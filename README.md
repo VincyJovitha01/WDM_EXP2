@@ -1,4 +1,4 @@
-### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
+https://github.com/VincyJovitha01/WDM_EXP2/edit/main/README.md### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
 ### DATE: 24.04.2026
 ### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
 ### Description:
@@ -54,7 +54,7 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
-![Uploading image.png…]()
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/38887c54-3acf-4d96-af1a-07f59784a954" />
 
 ### RESULT: 
 Thus the program to generate associate rules for the employee dataset using Apriori Algorithm has been accomplished successfully
